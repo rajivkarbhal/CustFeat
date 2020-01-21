@@ -43,7 +43,7 @@ Zincfing => Zinc finger
 
 See the sample perl script to see how to provide feature name and UniProt Id/s in perl script. How to install this module?? Instructions:
 
-1 - Download and extract the Zip folder from https://github.com/rajivkarbhal/SFV
+1 - Download and extract the Zip folder from https://github.com/rajivkarbhal/PFSE
 2 - Unzip the folder. Folder contains the following files- CustFeat.pm, Sample1.pl, Sample2.pl and List.txt.
 3 - Copy the CustFeat.pm file and keep it in the directory "C:\Perl64\site\lib" (path may vary). Refresh the folder.
 4 - *Provide Proxy authentication in CustFeat.pm if your network have proxy connection otherwise skip this step.
