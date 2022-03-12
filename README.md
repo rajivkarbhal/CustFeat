@@ -1,4 +1,4 @@
-# SFV
+# CustFeat
 CustFeat is Perl module for extracting and downloading sequence/s of protein feature/s (Sequence annotations) in customised manner 
 
 CustFeat is perl module developed at Bioinformatics Centre, Savitribai Phule Pune University (Formerly University of Pune) for extracting the sequence of any user-specified feature/s out of a total of 39 features annotations available in UniprotKB Entry. You can read more details at https://www.uniprot.org/help/sequence_annotation To extract the sequence of feature/s, user just have to provide the feature/s name and UniprotKB ID/s. The output will be sequence of user provided feature/s of corresponding UniprotKB Entry/ies. Here is the feature names and its abbreviation which are need to provide in perl code to download its sequence.
